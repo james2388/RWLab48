@@ -2,7 +2,14 @@
 <resources>
 
     <string name="app_name">RWLab48</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="button_gallery_app">Gallery App</string>
+    <string name="button_web_browser">Web Browser</string>
+    <string name="button_map">Open map</string>
+    <string name="button_gallery_image">Choose image</string>
+    <string name="button_make_photo">Make a photo</string>
+    <string name="button_record_video">Record a video</string>
+    <string name="button_voice_recording">Voice recording</string>
+    <string name="toast_application_not_found">No apps can do this action</string>
+    <string name="title_application_chooser">Choose application from the list</string>
 
 </resources>
